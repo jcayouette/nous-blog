@@ -1,0 +1,29 @@
+---
+date: 2018-08-15
+title: Buddism
+categories: apologetics
+description: Introduction to Buddism and a Christian response.
+type: Document
+---
+:imagesdir: ../../images
+
+== Introduction to Buddhism
+
+[quote, Buddism]
+____
+This is a buddhist quote...
+____
+
+image::screenshot.png[]
+
+== History and Beginnings
+
+=== Some point in History
+
+=== Another point in History
+
+== What does Buddhism Teach?
+
+== How is someone a Good Buddhist?
+
+== What is the Point of Buddhism?

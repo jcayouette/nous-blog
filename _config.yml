@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: A place to relieve information overload, monitor progression of personal knowledge and for later retrieval in various projects.
 author:
   name:
   email:
@@ -19,6 +19,8 @@ social:
   name: Base Template
   links:
     - https://github.com/CloudCannon/base-jekyll-template
+
+asciidoc: {}
 
 # -----
 # Build
@@ -42,7 +44,12 @@ exclude:
 
 collections:
   sets:
-  
+
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-asciidoc
 
 
 jekyll-archives:

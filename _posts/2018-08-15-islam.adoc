@@ -1,0 +1,10 @@
+---
+date: 2018-08-15
+title: Islam
+author: jcayouette
+categories: apologetics
+description: Introduction to Islam and a Christian Response.
+type: Document
+---
+
+== Introduction to Islam

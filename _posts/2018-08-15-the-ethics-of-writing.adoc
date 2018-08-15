@@ -1,0 +1,9 @@
+---
+date: 2018-08-15
+title: The Ethics of Writing
+categories: writing
+description: Topics related to writing and documentation.
+type: Document
+---
+
+== The Ethics of Writing

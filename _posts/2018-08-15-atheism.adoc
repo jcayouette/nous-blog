@@ -1,0 +1,12 @@
+---
+date: 2018-08-15
+title: Atheism
+author: jcayouette
+categories: apologetics
+description: Introduction to Atheism and a Christian response.
+type: Document
+set: Apologetics
+set_order: 1
+---
+
+== Introduction to Atheism

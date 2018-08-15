@@ -1,0 +1,9 @@
+---
+date: 2018-08-15
+title: Hinduism
+categories: apologetics
+description: Introduction to Hinduism and a Christian response.
+type: Document
+---
+
+== Introduction to Hinduism

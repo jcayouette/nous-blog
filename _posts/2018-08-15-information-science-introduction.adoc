@@ -1,0 +1,10 @@
+---
+date: 2018-08-15
+title: Information Science
+author: jcayouette
+categories: information-science
+description: "The study of processes for storing and retrieving information."
+type: Document
+---
+
+= Introduction

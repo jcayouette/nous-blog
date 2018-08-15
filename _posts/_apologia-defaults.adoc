@@ -1,0 +1,8 @@
+---
+date:
+title: Apologetics
+author: jcayouette
+categories: apologetics
+description: "The original Greek apologia (ἀπολογία, from ἀπολογέομαι, apologeomai, "speak in return, defend oneself") was a formal verbal defense, either in response to accusation or prosecution in a court of law. ~Christian Apologetics - Wikipedia"
+type: Document
+---
