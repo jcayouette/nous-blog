@@ -35,6 +35,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-archives
+  - jekyll-asciidoc
 
 exclude:
   - Gemfile
@@ -44,13 +45,6 @@ exclude:
 
 collections:
   sets:
-
-
-
-plugins:
-  - jekyll-feed
-  - jekyll-asciidoc
-
 
 jekyll-archives:
   enabled: ['categories']
